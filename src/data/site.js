@@ -1,7 +1,7 @@
 export const vehicles = [
   {
     name: 'Toyota Crysta',
-    price: 18,
+    price: 19,
     tag: 'Premium',
     seats: '6+1',
     img: 'https://res.cloudinary.com/dynbpb9u0/image/upload/v1777538055/crysta_etituj.avif',
@@ -9,7 +9,7 @@ export const vehicles = [
   },
   {
     name: 'Toyota Innova',
-    price: 16,
+    price: 17,
     tag: 'Family Favourite',
     seats: '7+1',
     img: 'https://cdn.carhp.in/toyota/toyota_innova_hycross_super_white.jpg?format=webp&width=800&q=75',
@@ -17,7 +17,7 @@ export const vehicles = [
   },
   {
     name: 'Maruti Ertiga',
-    price: 14,
+    price: 16,
     tag: 'Value',
     seats: '6+1',
     img: 'https://res.cloudinary.com/dynbpb9u0/image/upload/v1777707768/ertiga_uxolyj.avif',
@@ -25,7 +25,7 @@ export const vehicles = [
   },
   {
     name: 'Maruti Dzire',
-    price: 11,
+    price: 13,
     tag: 'Economy',
     seats: '4+1',
     img: 'https://res.cloudinary.com/dynbpb9u0/image/upload/v1777458600/dzire_kkjx6a.avif',
@@ -33,11 +33,19 @@ export const vehicles = [
   },
   {
     name: 'Tempo Traveller',
-    price: 20,
+    price: 21,
     tag: 'Group',
     seats: '12+1',
     img: 'https://res.cloudinary.com/dynbpb9u0/image/upload/v1777546989/client/force-4020wb-tempo-traveller-bus-19-seater-2224664623-1gw19a0n_po8fpa.avif',
     features: ['Group Travel', 'Pushback Seats', 'Wide Aisle'],
+  },
+  {
+    name: 'Force Toofan ',
+    price: 18,
+    tag: 'Large Group',
+    seats: '18+1',
+    img: 'https://imgd.aeplcdn.com/1920x1080/n/cw/ec/135589/trax-cruiser-exterior-right-front-three-quarter-3.png?isig=0&q=80&q=80',
+    features: ['18-Seater', 'Spacious Cabin', 'Ideal for Large Groups'],
   },
 ];
 
